@@ -1,6 +1,3 @@
-# BioPython
-Programação com a linguagem Python para manipulação de dados biológicos e pesquisas científicas
-
 # Estudo de caso: comparando sequências de RNA ribossomal entre humanos e bactéria
 
 Neste estudo de caso, faremos a comparação entre duas sequências de DNA: (1) ser humano; vs. (2) bactéria.
